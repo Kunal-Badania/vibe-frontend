@@ -1,4 +1,4 @@
-# Vibe - Let Your Votes Choose the Beat
+# Vibe - Let Your Votes Choose the Beats
 
 [![Website](https://img.shields.io/website-up-down-green-red/https/getvibe.in.svg)](https://getvibe.in)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
